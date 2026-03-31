@@ -2,7 +2,7 @@
   "name": "react-exercise-native",
   "version": "1.0.0",
   "main": "index.js",
-  "homepage": "https://YOUR_USERNAME.github.io/react-todo",
+  "homepage": "https://LenaDurant.github.io/react-todo",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
